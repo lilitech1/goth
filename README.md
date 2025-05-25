@@ -145,6 +145,7 @@ gothic.Store = store
 Issues always stand a significantly better chance of getting fixed if they are accompanied by a
 pull request.
 
+
 ## Contributing
 
 Would I love to see more providers? Certainly! Would you love to contribute one? Hopefully, yes!
